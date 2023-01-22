@@ -6,8 +6,8 @@
   
   I'm use postaman to test the API functionalities, as can see at the images below:
 
-- Setup project dependencies![Screenshot from 2023-01-22 13-48-18](https://user-images.githubusercontent.com/94999729/213931604-1f4c3d05-33c0-4815-89a4-f6b43a58d732.png)
-                              Server conection && read all movies list
+- Server conection && read all movies list ![Screenshot from 2023-01-22 13-48-18](https://user-images.githubusercontent.com/94999729/213931604-1f4c3d05-33c0-4815-89a4-f6b43a58d732.png)
+                              
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot from 2023-01-22 13-50-31](https://user-images.githubusercontent.com/94999729/213931809-89b791a4-ffc8-4003-834a-d7ff9be3915b.png)
                               POST method (adding at the list the Harry Potter movie)
