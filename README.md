@@ -6,7 +6,7 @@
   
   I'm use postaman to test the API functionalities, as can see at the images below:
 
-**- Server conection && READ movies list:** ![Screenshot from 2023-01-22 13-48-18](https://user-images.githubusercontent.com/94999729/213931604-1f4c3d05-33c0-4815-89a4-f6b43a58d732.png)
+**- Server conection and READ movies list:** ![Screenshot from 2023-01-22 13-48-18](https://user-images.githubusercontent.com/94999729/213931604-1f4c3d05-33c0-4815-89a4-f6b43a58d732.png)
                               
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
