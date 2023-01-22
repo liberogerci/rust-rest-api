@@ -31,3 +31,5 @@ After complete the instalation we going access the folder on terminal and run "r
 Rustc command will compile and creating a executable file, ready for open and read the CSV document.
 
 On other hand, cargo run command will compile and execute the file in one line.
+
+The server run at the port 8000, how can see at the screenshots presented above.
