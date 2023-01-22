@@ -10,15 +10,15 @@
                               
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**- POST method (adding Harry Potter movie at the list):** ![Screenshot from 2023-01-22 13-50-31](https://user-images.githubusercontent.com/94999729/213931809-89b791a4-ffc8-4003-834a-d7ff9be3915b.png)
+**- POST method (adding Harry Potter movie at the movies list):** ![Screenshot from 2023-01-22 13-50-31](https://user-images.githubusercontent.com/94999729/213931809-89b791a4-ffc8-4003-834a-d7ff9be3915b.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**- GET method (searching Pulp Fiction movie at the list the):** ![Screenshot from 2023-01-22 13-51-32](https://user-images.githubusercontent.com/94999729/213931815-55d5054f-ac1e-493e-a2c6-d720055d0077.png)
+**- GET method (searching Pulp Fiction movie at the movies list the):** ![Screenshot from 2023-01-22 13-51-32](https://user-images.githubusercontent.com/94999729/213931815-55d5054f-ac1e-493e-a2c6-d720055d0077.png)
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**- DELETE method (delete Incridible movie from the list):** ![Screenshot from 2023-01-22 13-51-59](https://user-images.githubusercontent.com/94999729/213931818-73cbd940-acb8-4c1b-8918-6948caea8c5d.png)
+**- DELETE method (delete Incridible movie from the movies list):** ![Screenshot from 2023-01-22 13-51-59](https://user-images.githubusercontent.com/94999729/213931818-73cbd940-acb8-4c1b-8918-6948caea8c5d.png)
                               
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
