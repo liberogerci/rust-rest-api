@@ -1,6 +1,6 @@
 # Rust CRUD rest API
 
-  At this project i developed a rest API using Rust language, Rocket web framework (for async call functions) and Serde (for serialize && deserialize data).
+  At this project I developed a rest API using Rust, Rocket web framework (for async call functions) and Serde (for serialize && deserialize data).
   
   The software project developed can create, read, update and delete (CRUD) movie(s) in json format from a database.
   
